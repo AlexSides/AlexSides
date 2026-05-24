@@ -7,13 +7,13 @@ I am an Electrical Engineering graduate interested in embedded systems, robotics
 ## Featured Projects
 
 - **[ZillaBot](https://github.com/AlexSides/Zillabot)**  
-  Senior design robotics project focused on autonomous sumo and tug-of-war behavior, sensor-driven navigation, CAD/PCB assets, testing evidence, and project documentation.
+  Embedded robotics project using Raspberry Pi Pico, MicroPython, IR sensors, ToF sensors, IMU feedback, motor control, telemetry, PCB/CAD assets, and testing documentation.
 
-- **Waveport**  
-  Game/software project focused on interactive software development and building a complete playable experience.
+- **[Waveport](https://github.com/AlexSides/Waveport)**  
+  Godot/GDScript game project focused on turn-based card combat, enemy intent, ship modules, and game-state systems.
 
-- **Vehicle Inventory Desktop App**  
-  Python GUI project for managing vehicle inventory workflows in a desktop application.
+- **[Vehicle Inventory Desktop App](https://github.com/AlexSides/Vehicle-Inventory-Desktop-App)**  
+  Python/PySide6 desktop GUI using object-oriented structure, JSON persistence, inventory actions, and dashboard views.
 
 ## Technical Skills
 
