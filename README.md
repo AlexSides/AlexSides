@@ -17,11 +17,12 @@ I am an Electrical Engineering graduate interested in embedded systems, robotics
 
 ## Technical Skills
 
-- Embedded systems and microcontroller-based projects
-- Robotics, sensors, motor control, and system integration
-- Python scripting and desktop GUI development
-- GitHub documentation and project organization
-- Automation and workflow tools
+- Python, MicroPython, and PySide6 desktop GUI development
+- Raspberry Pi Pico, embedded systems, and sensor integration
+- UART / I2C communication, motor control, and robotics workflows
+- Godot / GDScript game development
+- Git / GitHub project organization and documentation
+- PCB / CAD documentation for engineering projects
 
 ## Currently Improving
 
