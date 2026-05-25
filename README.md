@@ -1,4 +1,4 @@
-# Alex Sides
+# Eric Sides
 
 ## About Me
 
