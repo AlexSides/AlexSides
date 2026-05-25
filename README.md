@@ -1,4 +1,4 @@
-# Eric Sides
+# Eric A. Sides
 
 ## About Me
 
